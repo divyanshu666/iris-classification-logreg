@@ -10,7 +10,7 @@ This project demonstrates the use of **Logistic Regression** with **K-Fold Cross
 - ✅ Performed multiclass **Logistic Regression**
 - 🔁 Applied **K-Fold Cross Validation** (default `k=5`)
 - 📈 Achieved **100% Accuracy**
-- 🛠️ Built with `scikit-learn`, `pandas`, `numpy`, and `matplotlib`
+- 🛠️ Built with `scikit-learn`, `pandas`, and `numpy`
 
 ---
 
