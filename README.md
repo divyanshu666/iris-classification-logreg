@@ -26,11 +26,10 @@ This project demonstrates the use of **Logistic Regression** with **K-Fold Cross
 ## 🔍 Steps Followed
 
 1. **Imported and visualized** the Iris dataset  
-2. **Split** features and target variable  
-3. **Standardized** the data using `StandardScaler`  
-4. **Applied Logistic Regression** for classification  
-5. **Evaluated** using **K-Fold Cross Validation**  
-6. **Printed Accuracy** for each fold and the average
+2. **Split** features and target variable    
+3. **Applied Logistic Regression** for classification  
+4. **Evaluated** using **K-Fold Cross Validation**  
+5. **Printed Accuracy** for each fold and the average
 
 ---
 
